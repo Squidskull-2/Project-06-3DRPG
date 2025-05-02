@@ -1,4 +1,4 @@
-# Project-06
+# Project-06 - 3D RPG
 
 You are a passenger on a train that mysteriously stopped. You and one other person are confused about what to do and must find your way out.
 
