@@ -8,6 +8,8 @@ TagManager:
   - Key
   - key
   - Door
+  - Destination
+  - npc
   layers:
   - Default
   - TransparentFX
